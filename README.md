@@ -6,7 +6,7 @@
 
 # İntikam21 Framework
 
-<img src="https://4.bp.blogspot.com/-qZDqDJu1j-k/V09AEAbLBeI/AAAAAAAAAR0/YX_M7a12s2URf-vzcaghv_ZDIvuy9b39QCLcB/s320/Sin%2Bt%25C3%25ADtulo.png" title="İntikam21">
+<img src="https://github.com/Intikam21kurucu/intframework/blob/Intikam21kurucu-patch-1/%5BOrijinal%20boyut%5D%20Renkli%20Modern%20Yuvarlak%20Okul%20Logo_20240423_141004_0000.png" title="İntikam21">
 
 ![Gitter chat](https://github.com/Intikam21kurucu/intframework/blob/Intikam21kurucu-patch-1/%5BOrijinal%20boyut%5D%20Renkli%20Modern%20Yuvarlak%20Okul%20Logo_20240423_141004_0000.png)
 ![Supported OS](https://img.shields.io/badge/Supported%20OS-Linux-yellow.svg)
