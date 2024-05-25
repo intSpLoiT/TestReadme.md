@@ -11,4 +11,5 @@
 ![License](https://img.shields.io/badge/license-BSL--1.0-blue.svg)
 ![FRAMEWORK SÜRÜMÜ](https://img.shields.io/badge/FRAMEWORK%20SÜRÜMÜ-İntikam21--Framework%20console%20v6.7.30--dev--bbf096e-green.svg)
 ![Python](https://img.shields.io/badge/Python-3-green.svg)
+[CORE](https://img.shields.io/badge/core-2.3.0.1-green.svg) ![Build](https://img.shields.io/badge/BUILD-1079-red.svg) ![Modules](https://img.shields.io/badge/modules-37-green.svg) !
 
