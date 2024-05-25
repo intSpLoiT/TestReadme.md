@@ -6,7 +6,7 @@
 
 # İntikam21 Framework
 
-![Gitter chat](https://github.com/Intikam21kurucu/Intikam21/blob/main/%5BOrijinal%20boyut%5D%20Renkli%20Modern%20Yuvarlak%20Okul%20Logo_20240423_141004_0000.png)
+![Gitter chat](https://github.com/Intikam21kurucu/TestReadme.md/blob/main/%C4%B0ntikam21%20Cyber_20240525_092506_0000.png)
 ![Supported OS](https://img.shields.io/badge/Supported%20OS-Linux-yellow.svg)
 ![License](https://img.shields.io/badge/license-BSL--1.0-blue.svg)
 ![FRAMEWORK SÜRÜMÜ](https://img.shields.io/badge/FRAMEWORK%20SÜRÜMÜ-İntikam21--Framework%20console%20v6.7.30--dev--bbf096e-green.svg)
