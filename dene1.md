@@ -1,4 +1,4 @@
-```bash
+```plainttext
 int4-pro > \e[34muse modules/Auxiliary/social/userscan.py\e[0m
 int4-pro userscan.py(modules/Auxiliary/social/userscan.py) > \e[32mrun <example --lang en>\e[0m
 \e[31mnot rooted\e[0m
