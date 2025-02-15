@@ -115,7 +115,7 @@ chmod +x terbuild.sh
 
 ## 🔍 Usage Examples
 
-### 1️⃣ Running a Network Scan Module
+#### 1️⃣ Running a Network Scan Module
 ```
 int4 (modular) > use network_scan
 [*] Module selected: network_scan
@@ -139,7 +139,7 @@ IP Address    | Device Name       | Status
 
 ---
 
-### 2️⃣ Using inthandler for Exploitation
+#### 2️⃣ Using inthandler for Exploitation
 ```
 int4 (exploiter) > use multi/handler
 Exploit 'multi/handler' selected.
