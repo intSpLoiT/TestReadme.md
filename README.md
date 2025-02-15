@@ -1,3 +1,4 @@
+span style="color:red"> *some emphasized markdown text*</span>
 span style="color:red"> *some emphasized markdown text*</span
 <pre><code>
 <span style="color: red; font-weight: bold;">int4-pro ></span> <span style="color: blue;">use modules/Auxiliary/social/userscan.py</span>
