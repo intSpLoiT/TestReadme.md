@@ -82,13 +82,13 @@ inttable.console.run("command")
 
 ---
 
-📷 Screenshots
+## 📷 Screenshots
 
-System Interface:
+**System Interface**:
 system photos:
 ![İntikam21 photos:](https://github.com/intSpLoiT/intframework/blob/d5cb19b49875d0eb9a949c379202999d5c609e22/Photos/IMG_20241008_184826.jpg) 
  
-More UI Previews:
+**More UI Previews**:
  
 ![Photo2](https://github.com/intSpLoiT/intframework/blob/%C4%B0ntframeworkV4/IMG_20241027_122034.jpg)
 ![Github Badge](https://github.com/intSpLoiT/intframework/blob/%C4%B0ntframeworkV4/IMG_20240916_191945.jpg)
@@ -97,7 +97,7 @@ More UI Previews:
  
 ---
 
-📲 Installing on Termux
+## 📲 Installing on Termux
 ```
 apt update && apt upgrade
 pkg update && pkg upgrade
@@ -113,9 +113,9 @@ chmod +x terbuild.sh
 
 ---
 
-🔍 Usage Examples
+## 🔍 Usage Examples
 
-1️⃣ Running a Network Scan Module
+# 1️⃣ Running a Network Scan Module
 ```
 int4 (modular) > use network_scan
 [*] Module selected: network_scan
@@ -139,7 +139,7 @@ IP Address    | Device Name       | Status
 
 ---
 
-2️⃣ Using inthandler for Exploitation
+# 2️⃣ Using inthandler for Exploitation
 ```
 int4 (exploiter) > use multi/handler
 Exploit 'multi/handler' selected.
