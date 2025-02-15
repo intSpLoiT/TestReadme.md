@@ -24,7 +24,7 @@
 
 ✅ **Wide Module Support** – Over 900+ modules, including OSINT, exploits, auxiliary, and encoders  
 ✅ **Advanced Exploitation** – 500+ exploits (aiming for 2500), customizable for various attack vectors  
-✅ **Post-Exploitation Tools** – 108 post-exploit modules (targeting 500+) for persistence and privilege escalation  
+✅ **Post-Exploitation Tools** – 120+ post-exploit modules (targeting 500+) for persistence and privilege escalation  
 ✅ **Auxiliary Modules** – 108 supporting tools, with a goal to expand to 1250  
 ✅ **OSINT-Specific Modules** – 50+ tools for open-source intelligence gathering  
 ✅ **Payload Generation** – 8+ payloads with encoding support (50 encoders)  
@@ -42,7 +42,8 @@
 🚧 **Mobile Device Support** – Dedicated Android & iOS modules  
 🚧 **Self-Updating Framework** – Automatic module and exploit updates  
 🚧 **Real-Time Attack Analysis** – In-depth monitoring of active exploits  
-
+🚧 **More Commands** – want to you are use other commands
+ 
 ---
 
 ## ⚠️ Disclaimer  
