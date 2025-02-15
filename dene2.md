@@ -60,25 +60,25 @@ Ensure that all dependencies are installed properly.
 #### **1️⃣ After executing `terbuild.sh`**
 ```bash
 source ~/.bashrc
-
+```
 2️⃣ If intframework is located under /usr/opt
-
+```
 cd $PREFIX/opt/
 mkdir -p intframework
 mv $PREFIX/opt/* $PREFIX/opt/intframework
-
+```
 3️⃣ Before running intconsole
-
+```
 cd $INTFRAMEWORK_PATH
 mv inttable/inttable $PREFIX/lib/python3.12/
-
+```
 4️⃣ Using inttable module in Python
-
+```
 import inttable.inttable as inttable
 
 inttable.core.activate("root")
 inttable.console.run("command")
-
+```
 
 ---
 
@@ -95,7 +95,7 @@ More UI Previews:
 ---
 
 📲 Installing on Termux
-
+```
 apt update && apt upgrade
 pkg update && pkg upgrade
 pkg install python3
@@ -106,14 +106,14 @@ cd intframework
 
 chmod +x terbuild.sh
 ./terbuild.sh
-
+```
 
 ---
 
 🔍 Usage Examples
 
 1️⃣ Running a Network Scan Module
-
+```
 int4 (modular) > use network_scan
 [*] Module selected: network_scan
 int4 module(network_scan) > show options
@@ -123,21 +123,21 @@ timeout: None
 int4 module(network_scan) > set timeout 0.1
 [*] timeout = 0.1
 int4 module(network_scan) > run
-
+```
 Example Output:
-
+```
 Network Scanner
 IP Address    | Device Name       | Status
 ---------------------------------------------
 192.168.5.1   | Network Scan      | Port Active, Ping Active, HTTP Active
 192.168.5.3   | Unknown Device    | Inactive
 192.168.5.8   | Unknown Device    | Inactive
-
+```
 
 ---
 
 2️⃣ Using inthandler for Exploitation
-
+```
 int4 (exploiter) > use multi/handler
 Exploit 'multi/handler' selected.
 int4 exploit(multi/handler) > run
@@ -147,3 +147,4 @@ FILENAME set to multi/handler/inthandler.py.
 int4 exploit(multi/handler) > run
 Listening on 0.0.0.0:4444
 Connection from ('127.0.0.1', 34170)
+```
